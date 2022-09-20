@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960803430029",
+    "firebase_url": "https://edu-app-edu.firebaseio.com",
+    "project_id": "edu-app-edu",
+    "storage_bucket": "edu-app-edu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960803430029:android:ce9354448c9f6833dcccc4",
+        "android_client_info": {
+          "package_name": "com.eduapp.addictedboyyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960803430029-57a6uoakrb9drfn5k73f7q0a4h9gl6g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwWzGSATDScPJ9ToJoRwXwGEVzzzp8oHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960803430029-57a6uoakrb9drfn5k73f7q0a4h9gl6g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
